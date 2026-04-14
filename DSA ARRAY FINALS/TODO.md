@@ -1,0 +1,8 @@
+- [x] Modify displayWelcome() to use JFrame with styled JPanel for welcome message
+- [x] Modify mainMenu() to use JFrame with buttons for menu options
+- [x] Add necessary imports for Swing components
+- [x] Test the application to ensure functionality remains intact
+- [x] Modify AdminSystem.java to replace JOptionPane with JFrame for all menus and dialogs
+- [x] Modify CustomerSystem.java to replace JOptionPane with JFrame for all menus and dialogs
+- [x] Update imports in AdminSystem.java and CustomerSystem.java
+- [x] Test the full application flow
